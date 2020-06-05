@@ -1,6 +1,6 @@
 # spark_orc_file_edit
 
-The file can be used to edit column in an orc file and save the orc file with similar partition column and to a new location
+The file can be used to edit column in an orc file, by replacing the value of column based on the regex or by replacing value of a column from a list of values and save the orc file with similar partition column to a new location
 
 Values to be replaced as per the requirement:
 1. basepath of orc file: it's the basepath from where orc file to be edited is present
